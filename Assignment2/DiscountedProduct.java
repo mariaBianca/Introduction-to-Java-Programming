@@ -1,8 +1,7 @@
 package Assignment2;
 
 /**
- * @author CONRAD-UWAILA EKHATOR 790213-5396(has talked to Musard regarding another time for presentation due to personal issues)
- * @author MARIA-BIANCA CINDROI 920213-0028
+ * @author MARIA-BIANCA CINDROI
  */
 
 import static Assignment2.SimpleIO.*;
