@@ -3,10 +3,7 @@ package Assignment1;
 /**
  * course dit948 - Programming
  * Assignment 1
- * @author Maria-Bianca Cindroi
- * @author Uwaila Conrad Ekhator (has talked to Musard regarding presenting later in the course due to some personal issues that prevented him for being
- *                                 present at the moment) 
- * 
+ * @author Maria-Bianca Cindroi 
  * This program takes an arithmetic operations, transforms it into a postfix operations and then evaluates it.
  * */
 import static Assignment1.SimpleIO.*;
