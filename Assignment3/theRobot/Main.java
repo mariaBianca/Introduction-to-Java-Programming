@@ -3,7 +3,6 @@ package theRobot;
 /**
  * Builds the frame for the program and puts everything together.
  * @author Maria-Bianca Cindroi
- * @author Conrad Uwaila Ekhator
  * */
 
 import java.awt.Color;
