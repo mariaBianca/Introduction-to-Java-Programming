@@ -2,7 +2,6 @@ package theRobot;
 
 /** This class builds the city. 
  * @author Maria-Bianca Cindroi
- * @author Uwaila Conrad Ekhator*/
 
 
 import becker.robots.City;
