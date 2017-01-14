@@ -3,7 +3,6 @@ package theRobot;
 /**
  * Takes the prize ad puts it in the city.
  * @author Maria-Bianca Cindroi
- * @author Uwaila Conrad Ekhator
  * */
 import java.awt.Graphics;
 
