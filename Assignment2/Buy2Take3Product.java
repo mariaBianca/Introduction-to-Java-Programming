@@ -1,6 +1,6 @@
 package Assignment2;
 /**
- * @author MARIA-BIANCA CINDROI 920213-0028
+ * @author MARIA-BIANCA CINDROI
  */
 
 import static Assignment2.SimpleIO.*;
