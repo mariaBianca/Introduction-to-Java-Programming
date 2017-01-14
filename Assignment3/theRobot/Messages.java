@@ -5,7 +5,6 @@ import javax.swing.JOptionPane;
 /**
  * Displays the dialog boxes according to what the user does: wins or looses.
  * @author Maria-Bianca Cindroi
- * @author Conrad Uwaila Ekhator
  * */
 
 public class Messages {
