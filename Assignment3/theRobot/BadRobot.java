@@ -8,7 +8,6 @@ import static theRobot.Random.*;
  * able to stop the program when the user enters the walls of the city.
  *
  *@author Maria-Bianca Cindroi
- *@author Conrad Uwaila Ekhator
  * */
 
 import becker.robots.City;
