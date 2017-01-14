@@ -9,7 +9,6 @@ import becker.robots.RobotException;
  * break the user robot
  * check if on top of prize
  * @author Maria-Bianca Cindroi
- * @author Uwaila Conrad Ekhator
  * */
 
 public class Optimus extends Robot {
