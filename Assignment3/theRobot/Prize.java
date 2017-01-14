@@ -3,7 +3,6 @@ package theRobot;
 /**
  *Turns the image prize into the needed "thing"
  * @author Maria-Bianca Cindroi
- * @author Conrad Uwaila Ekhator
  * */
 import becker.robots.City;
 import becker.robots.Direction;
